@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: suaray.github.io/blob/main/STA237
+  baseUrl: ksuaray.github.io
   ignorePatterns:
     - private
     - templates
