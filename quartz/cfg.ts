@@ -70,7 +70,7 @@ export interface GlobalConfiguration {
   /** Base URL to use for CNAME files, sitemaps, and RSS feeds that require an absolute URL.
    *   Quartz will avoid using this as much as possible and use relative URLs most of the time
    */
-  baseUrl?: string
+  baseUrl?: suaray.github.io/blob/main/STA237
   theme: Theme
   /**
    * Allow to translate the date in the language of your choice.
