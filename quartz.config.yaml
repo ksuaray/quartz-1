@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: kagbasuaray.github.io/sta237-notes
+  baseUrl: kagbasuaray.github.io
   ignorePatterns:
     - private
     - templates
