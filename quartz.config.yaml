@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: kagbasuaray.github.io
+  baseUrl: ksuaray.github.io
   ignorePatterns:
     - private
     - templates
