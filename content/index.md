@@ -1,3 +1,2 @@
 Welcome to STA237!
-Let's explore
-
+Let's explore!
