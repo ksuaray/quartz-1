@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: ksuaray.github.io/quartz-1
+  baseUrl: kagbasuaray.github.io/sta237-notes
   ignorePatterns:
     - private
     - templates
