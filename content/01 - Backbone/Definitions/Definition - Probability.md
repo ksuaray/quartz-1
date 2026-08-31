@@ -1,4 +1,3 @@
-```
 ---
 id: DEF-PROBABILITY
 type: definition
@@ -6,8 +5,6 @@ topic1: probsets
 topic2: prcce
 status: canonical
 ---
-```
-
 # Probability
 ## Definition 
 

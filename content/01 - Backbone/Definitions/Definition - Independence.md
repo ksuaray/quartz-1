@@ -1,4 +1,3 @@
-```
 ---
 id: DEF-INDEP
 type: definition
@@ -6,8 +5,6 @@ topic1: prcce
 topic2: probsets
 status: canonical
 ---
-```
-
 # Independence
 ## Definition 
 Two non-empty [[Definition - Event|event]]s $A$ and $B$ are **independent** if:

@@ -1,12 +1,9 @@
-```
 ---
 id: DEF-SET
 type: definition
 topic: probsets
 status: canonical
 ---
-```
-
 # Sample Space
 ## Definition
 A well-defined collection of distinct unordered elements.

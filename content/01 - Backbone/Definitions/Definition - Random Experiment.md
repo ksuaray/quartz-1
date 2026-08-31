@@ -1,11 +1,9 @@
-```
 --- 
 id: DEF-RANDOM_EXPERIMENT 
 type: definition 
 topic: probsets 
 status: canonical 
 ---
-```
 # Random Experiment 
 ## Definition
 An activity, process, or experiment in which the outcome is uncertain. It has two defining characteristics. A random experiment is

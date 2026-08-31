@@ -1,4 +1,3 @@
-```
 ---
 id: DEF-MUTEX
 type: definition
@@ -6,8 +5,6 @@ topic1: probsets
 topic2: prcce
 status: canonical
 ---
-```
-
 # Mutually Exclusive
 ## Definition 
 On the other hand, two [[Definition - Event|event]]s are **mutually exclusive** if the occurrence of one event $A$ excludes the occurrence of the other [[Definition - Event|event]] $B$.

@@ -1,12 +1,9 @@
-```
 ---
 id: DEF-EVENT
 type: definition
 topic: probsets
 status: canonical
 ---
-```
-
 # Event
 ## Definition
 A set of simple outcomes in a [[Definition - Sample Space|sample space]].

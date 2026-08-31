@@ -1,12 +1,9 @@
-```
 ---
 id: DEF-SAMPLE-SPACE
 type: definition
 topic: probsets
 status: canonical
 ---
-```
-
 # Sample Space
 ## Definition
 The set of all possible outcomes of a [[Definition - Random Experiment|random experiment]].
