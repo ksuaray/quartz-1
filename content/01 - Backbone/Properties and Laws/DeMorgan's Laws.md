@@ -1,12 +1,9 @@
-```
 ---
 id: PROP-DEMORG
 type: property
 topic: probsets
 status: canonical
 ---
-```
-
 # Commutative, Associative and Distributive Laws
 
 For two [[Definition - Event|event]]s $A$ and $B$:

@@ -1,12 +1,9 @@
-```
 ---
 id: PROP-IN-EX
 type: property
 topic: prcce
 status: canonical
 ---
-```
-
 Suppose $A,B\subset\Omega$ be [[Definition - Event|events]]. Then we can show that the [[Definition - Probability|probability]] of the union and intersection can be written as
 $$P(A\cup B)=P(A)+P(B)-P(A\ B)$$ More generally,
  We can extend the inclusion-exclusion principle beyond two events to some set of $n$ events: $\{A_1, A_2, \ldots, A_n\}$. It becomes more complex because we need to account for the intersection of $r$ subsets of events:

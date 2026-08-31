@@ -1,12 +1,9 @@
-```
 ---
 id: PROP-SET-ALG
 type: property
 topic: sets
 status: canonical
 ---
-```
-
 # Commutative, Associative and Distributive Laws
 
 Unions and intersections of [[Definition - Event|events]] have some useful properties. Consider a sample space $\Omega$ with three events $A, B, C$:
